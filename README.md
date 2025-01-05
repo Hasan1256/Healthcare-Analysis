@@ -1,7 +1,7 @@
 # Healthcare Insights Dashboard using Power BI
 
 ## Executive Summary
-This project utilizes Power BI to analyze inpatient discharge data from healthcare facilities, focusing on procedures like total hip replacements. The dashboard highlights key metrics such as treatment costs, length of stay, patient demographics, and outcomes. These insights can guide healthcare administrators in optimizing operational efficiency and improving patient outcomes.
+This project utilizes Power BI to analyze inpatient discharge data from healthcare facilities, focusing on procedures like total hip replacements. The dashboard highlights key metrics such as treatment costs, length of stay and hospital profiles. These insights can guide healthcare administrators in optimizing operational efficiency and improving patient outcomes.
 
 ## Tools and Skills
 Power BI: Developed dynamic visualizations and an interactive dashboard.
