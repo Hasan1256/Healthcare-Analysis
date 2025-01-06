@@ -97,3 +97,98 @@ total_costs: Total estimated costs incurred by the hospital.
 
 
 ## Business Question
+
+"How can the hospital optimize treatment costs and length of stay while maintaining or improving hip-replacement's patient recovery outcomes?"
+
+## Key Insights
+
+1. Length of Stay (LOS) Analysis
+Average LOS: The overall average length of stay across all hospitals is 2.65 days.
+
+Top 3 Hospitals with Highest Average LOS:
+
+Kings County Hospital
+
+Interfaith Medical Center
+
+Memorial Hospital for Cancer and Allied Diseases
+
+
+Bottom 3 Hospitals with Lowest Average LOS:
+
+Northern Dutchess Hospital
+
+St. Elizabeth Medical Center
+
+Alice Hyde Medical Center
+
+Key Drivers of Increased LOS:
+
+Extreme Severity of Illness: Leads to the largest increase in LOS (impact score: 8.96).
+
+Extreme Risk of Mortality: Second-highest contributor to increased LOS (impact score: 6.09).
+
+New York City Health Service Area: Associated with a smaller but noticeable increase in LOS (impact score: 1.68).
+
+2. Cost Analysis
+
+Average Cost per Discharge: The average cost is $21,000, with a minimum total cost of $64.45K and a maximum of $688K.
+
+Top 3 Hospitals with Highest Average Cost per Discharge:
+
+NYU Lutheran Medical Center
+
+Olean General Hospital
+
+Memorial Hospital for Cancer and Allied Diseases
+
+Bottom 3 Hospitals with Lowest Average Cost per Discharge:
+
+United Memorial Medical Center
+
+St. Mary’s Healthcare
+
+Newark-Wayne Community Hospital
+
+Key Drivers of Decreased Costs:
+Health Service Areas like Capital/Adiron and Southern Tier: Show significantly reduced average costs per discharge (impacts: $59K and $58.31K, respectively).
+
+3. Discharge Distribution and Patient Outcomes
+
+Total Discharges: 26,000 across all hospitals, with 151 unique hospitals and 627 surgeons involved.
+
+Common Diagnosis: The majority of discharges are related to hip replacement surgeries and osteoporosis-related treatments.
+
+Discharge Destinations:
+A significant proportion of patients are discharged to home/self-care, while others are sent to skilled nursing or inpatient rehabilitation facilities.
+
+## Recommendations
+
+High Priority
+Focus on Reducing Length of Stay (LOS):
+
+Implement enhanced care protocols for patients in hospitals like Kings County Hospital and Interfaith Medical Center to address the extended LOS while maintaining quality care.
+Use predictive models to identify high-risk patients (e.g., extreme severity or mortality risk) early, enabling better resource allocation and preemptive interventions.
+
+Cost Optimization Strategies:
+
+Investigate high-cost hospitals (e.g., NYU Lutheran Medical Center) for inefficiencies in operations or resource utilization.
+Expand best practices from cost-efficient hospitals like United Memorial Medical Center to other facilities, focusing on maintaining high-quality care at lower costs.
+
+Medium Priority
+Regional Resource Management:
+
+Adjust resource allocation to high-cost regions and areas with high LOS trends (e.g., New York City Health Service Area).
+Prepare hospitals for seasonal fluctuations based on historical admission trends, especially in critical service areas.
+Improved Discharge Planning:
+
+Enhance post-discharge support for patients transitioning to home/self-care to reduce the likelihood of readmissions.
+Collaborate with skilled nursing and rehab facilities to ensure smoother transitions for patients requiring extended care.
+Low Priority
+Diagnosis-Specific Programs:
+
+Invest in early treatment plans for common diagnoses like osteoporosis and related conditions to reduce LOS and costs.
+Pilot alternative care methods (e.g., outpatient physical therapy) for certain procedures to minimize hospital stays and associated costs.
+Performance Benchmarking:
+
+Regularly evaluate the performance of top hospitals (e.g., Northern Dutchess Hospital) with low LOS and costs to identify replicable success strategies.
